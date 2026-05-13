@@ -48,3 +48,4 @@ Notes and usage details for AudioAuditor.
 - clarify the setup steps
 - add a note about the defaults
 - clarify the setup steps
+- add a note about the defaults
